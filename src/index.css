@@ -1,0 +1,25 @@
+body {
+  background: #ccc;
+  
+
+
+}
+
+.myMargin{
+  margin-left: 0px !important;
+  
+}
+
+.dashboardStyle{
+  background-color: rgb(209, 207, 207);
+  margin-left: 2%;
+  margin-top: 2%;
+  margin-right: 2%;
+  padding-left: 5%;
+
+}
+a.nav-link {
+  
+  color: #fff;
+  
+}
